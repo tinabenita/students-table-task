@@ -1,0 +1,77 @@
+[
+    {
+        "Name": "Bruce",
+        "Age": 28,
+        "Marks": 92
+    },
+    {
+        "Name": "Clark",
+        "Age": 30,
+        "Marks": 88
+    },
+    {
+        "Name": "Diana",
+        "Age": 27,
+        "Marks": 95
+    },
+    {
+        "Name": "Barry",
+        "Age": 25,
+        "Marks": 78
+    },
+    {
+        "Name": "Arthur",
+        "Age": 29,
+        "Marks": 85
+    },
+    {
+        "Name": "Victor",
+        "Age": 24,
+        "Marks": 80
+    },
+    {
+        "Name": "Hal",
+        "Age": 32,
+        "Marks": 90
+    },
+    {
+        "Name": "Oliver",
+        "Age": 31,
+        "Marks": 76
+    },
+    {
+        "Name": "Billy",
+        "Age": 18,
+        "Marks": 65
+    },
+    {
+        "Name": "Kara",
+        "Age": 23,
+        "Marks": 82
+    },
+    {
+        "Name": "John",
+        "Age": 34,
+        "Marks": 70
+    },
+    {
+        "Name": "Zatanna",
+        "Age": 28,
+        "Marks": 86
+    },
+    {
+        "Name": "Harley",
+        "Age": 26,
+        "Marks": 73
+    },
+    {
+        "Name": "Selina",
+        "Age": 27,
+        "Marks": 91
+    },
+    {
+        "Name": "Lex",
+        "Age": 33,
+        "Marks": 99
+    }
+]
