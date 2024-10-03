@@ -9,8 +9,7 @@ body {
 }
 
 table {
-    width: 50%;
-    margin: 50px auto;
+    width: 100%; 
     border-collapse: collapse;
     border: 1px solid #fff;
 }
@@ -33,22 +32,17 @@ tr:nth-child(odd) {
     background-color: #41be33;
 }
 
-tbody {
-    display: block;
-    height: 210px;
-    overflow-y: auto;
-    overflow-x: hidden;
-}
-
-thead, tbody tr {
-    display: table;
-    width: 100%;
-    table-layout: fixed;
-}
-
 thead {
     position: sticky;
     top: 0;
     z-index: 1;
     background-color: #a8afa8;
+}
+
+.table-container {
+    width: 50%; 
+    max-height: 250px; 
+    overflow-y: auto; 
+    overflow-x: hidden;
+    margin: 50px auto;
 }
